@@ -1,4 +1,4 @@
-### Software Engineering
+### Software Engineering Lab (Term Project)
 
 ## JUDICIARY INFORMATION SYSTEM
 
