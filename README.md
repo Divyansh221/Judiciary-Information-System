@@ -62,6 +62,8 @@ Following pre requirements are must for this project :
 
 END
 
+CONTRIBUTERS - 
+
 - Divyansh Bhatia
 - Amartya Mandal
 - Esha Manideep Dinne
